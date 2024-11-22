@@ -9,7 +9,7 @@ from streamlit_folium import folium_static
 # ----- Fuentes de datos -----
 
 # URL del archivo de datos. El archivo original está en: 
-URL_DATOS_COVID = 'datos.zip\datos\owid-covid-data.csv'
+URL_DATOS_COVID = 'datos/owid-covid-data.csv'
 
 # URL del archivo de países. El archivo original está en:
 URL_DATOS_PAISES = 'datos/paises.gpkg'
